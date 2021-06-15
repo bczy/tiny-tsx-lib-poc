@@ -4,7 +4,7 @@
   "description": "Made with create-react-library",
   "author": "bczy",
   "license": "none",
-  "repository": "git://github.com/bczy/tiny-tsx-lib-poc.git",
+  "repository": "git://github.com/bczy-display/tiny-tsx-lib-poc.git",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
